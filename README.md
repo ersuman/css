@@ -10,7 +10,10 @@ There are three styles classes are available:
 **2) `.col-246i`** : this will present 2, 4, 6 items in a row for sm, md, lg sizes respectively  
 **3) `.col-123456i`** : this will ... now you know what i meant to say :D  
 
-You can use these classes as your html classes as,
+At first link this css file inside <head> tag as  
+`<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/ersuman/css/master/ResponsiveColumn.css" />`
+
+Then, you can use these classes as your html classes as,
 
 Html with angular example
 ``` html
