@@ -13,7 +13,7 @@ There are three styles classes are available:
 At first link this css file inside `<head>` tag as  
 `<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/ersuman/css/master/ResponsiveColumn.css" />`
 
-Then, you can use these classes as your html classes as,
+Then, you can use these classes as your html classes.
 
 Html with angular example
 ``` html
