@@ -6,8 +6,8 @@ These styles are very easy to use than bootstrap.
 HOW TO USE ?
 ---
 There are three styles classes are available:  
-**1) `.col-135i`** : this will present 1, 3, 5 items in a row for sm, md, lg sizes  
-**2) `.col-246i`** : this will present 2, 4, 6 items in a row for sm, md, lg sizes  
+**1) `.col-135i`** : this will present 1, 3, 5 items in a row for sm, md, lg sizes respectively  
+**2) `.col-246i`** : this will present 2, 4, 6 items in a row for sm, md, lg sizes respectively  
 **3) `.col-123456i`** : this will ... now you know what i meant to say :D  
 
 You can use these classes as your html classes as,
